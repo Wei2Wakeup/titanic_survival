@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-# titanic_survival
-## Introdution
-_this_ project is to start learning github and jupiter
-=======
 # Titanic Survival
 ## Introduction
-This project is to start learning github and jupiter by playing with titanic survial dataset.
+This project is to play with titanic survial dataset.(81% accuracy with test kaggle top 5%)
 
 ## Dataset Descirption
 The data set have 891 items with
