@@ -26,4 +26,4 @@ The data set have 891 items with
 ### Target
 
 * `Survial` : 0=N0, 1=Yes
->>>>>>> local_edit
+
