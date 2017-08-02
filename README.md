@@ -1,6 +1,6 @@
 # Titanic Survival
 ## Introduction
-This project is to play with titanic survial dataset.(81% accuracy with test kaggle top 5%)
+This project is to play with titanic survial dataset.(81% accuracy with test dataset /kaggle top 5%)
 
 ## Dataset Descirption
 The data set have 891 items with
